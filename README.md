@@ -1,2 +1,2 @@
-# final-project-cse391
-This is the final project for cse391
+# Kaal-Akuma-website
+Made my band website for fun!
